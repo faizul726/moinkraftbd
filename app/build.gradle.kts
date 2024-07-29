@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.roozbehzarei.webview"
+    namespace = "github.faizul726.moinkraftbd"
     compileSdk = 34
 
     defaultConfig {
